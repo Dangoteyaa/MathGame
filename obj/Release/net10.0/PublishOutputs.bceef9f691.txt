@@ -1,5 +1,0 @@
-C:\Projects\PublishedProjects\MathGame\MathGame1.exe
-C:\Projects\PublishedProjects\MathGame\MathGame1.dll
-C:\Projects\PublishedProjects\MathGame\MathGame1.deps.json
-C:\Projects\PublishedProjects\MathGame\MathGame1.runtimeconfig.json
-C:\Projects\PublishedProjects\MathGame\MathGame1.pdb
