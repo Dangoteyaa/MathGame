@@ -1,0 +1,14 @@
+C:\Projects\MathGame1\bin\Debug\net10.0\MathGame1.exe
+C:\Projects\MathGame1\bin\Debug\net10.0\MathGame1.deps.json
+C:\Projects\MathGame1\bin\Debug\net10.0\MathGame1.runtimeconfig.json
+C:\Projects\MathGame1\bin\Debug\net10.0\MathGame1.dll
+C:\Projects\MathGame1\bin\Debug\net10.0\MathGame1.pdb
+C:\Projects\MathGame1\obj\Debug\net10.0\MathGame1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MathGame1\obj\Debug\net10.0\MathGame1.AssemblyInfoInputs.cache
+C:\Projects\MathGame1\obj\Debug\net10.0\MathGame1.AssemblyInfo.cs
+C:\Projects\MathGame1\obj\Debug\net10.0\MathGame1.csproj.CoreCompileInputs.cache
+C:\Projects\MathGame1\obj\Debug\net10.0\MathGame1.dll
+C:\Projects\MathGame1\obj\Debug\net10.0\refint\MathGame1.dll
+C:\Projects\MathGame1\obj\Debug\net10.0\MathGame1.pdb
+C:\Projects\MathGame1\obj\Debug\net10.0\MathGame1.genruntimeconfig.cache
+C:\Projects\MathGame1\obj\Debug\net10.0\ref\MathGame1.dll
