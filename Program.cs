@@ -1,9 +1,42 @@
 ﻿//storage 
 //addition questions
+string additionQuestions = new[]
+{
+    "35 + 67 = ?",
+    "89 + 51 = ?",
+    "48 + 90 = ?",
+    "23 + 98 = ?",
+    "12 + 77 = ?"
+};
 //subtraction questions
+string subtractionQuestions = new[]
+{
+    "100 - 13 = ?",
+    "56 - 8 = ?",
+    "383 - 17 = ?",
+    "34 - 9 = ?",
+    "49 - 28 = ?"
+};
 //division questions
+string divisionQuestions = new[]
+{
+    "35 / 7 = ?",
+    "89 / 9 = ?",
+    "49 / 7 = ?",
+    "100 / 25 = ?",
+    "77 / 11 = ?"
+};
 //multiplication questions
-//surpise questions
+string multiplicationQuestions = new[]
+{
+    "35 * 80 = ?",
+    "12 * 45 = ?",
+    "7 * 3 = ?",
+    "5 * 9 = ?",
+    "78 * 2 = ?"
+};
+//surpise questions - this will be 5 randomly selected questions from any of the above.
+
 
 
 
